@@ -49,7 +49,7 @@ This repository contains an Employee Management System, a comprehensive Full Sta
 
 Clone the repository: 
 
-    git clone https://github.com/your-username/employee-management-system.git
+    git clone https://github.com/parthyakadam/Employee-Management-System.git
 
 Navigate to the frontend directory: 
 
